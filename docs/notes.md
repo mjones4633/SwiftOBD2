@@ -12,3 +12,4 @@ Notes and usage details for SwiftOBD2.
 - clarify the setup steps
 - link the usage section
 - fix a small wording issue
+- clarify the setup steps
